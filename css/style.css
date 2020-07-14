@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol {
+    list-style-type: none;
+}
+img {
+    vertical-align: middle;
+}
+.
+}
+.full-wrapper {
+    width: 100%;
+}
+.wrapper {
+    width: 1140px;
+    margin: 0 auto;
+    
+}
+
+.Header{
+    background: url(../images/firstbg.png);
+    
+}
+
+.logo-menu{
+    display: flex;  
+}
+
+.menu{
+    margin-left: 201px;
+    line-height: 90px;
+   
+}
+
+.logo{
+    padding-top: 20px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+.menu ul li a{
+        font-size: 20px;
+        padding: 10px 15px;
+        color: white;
+        
+}
+
+.menu ul li:first-child a{
+    color: #10b9b4;
+}
+
+.content{
+    text-align: center;
+ 
+}
+
+.content h2{
+    color: white;
+    margin-top: 130px;
+    font-size: 36px;
+}
+
+.content p{
+    color: white;
+    margin-top: 70px;
+    padding: 0px 205px;
+}
+
+.doticon {
+    margin-top: 100px;
+    text-align: center;
+    padding: 28px;
+    
+}
+
+.content a{
+    border-color: teal;
+}
+.sp{
+    border: solid 1px #1a8595;
+    margin: 20px 540px;
+}
+
+.button {
+    border: 2px solid #1a8595;
+    margin: 45px 494px;
+    text-align: center;
+    padding: 9px;
+    border-radius: 10px;
+}
+.about{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 100px 0;
+}
+.about-image {
+    padding: 0 150px;
+}
+.about-content h2{
+    margin-top: 10px;
+    padding: 20px 0;
+}
+
+.about-content p{
+    font-size: 18px;
+}
+.second-section button{
+    border: 2px solid #1a8595;
+    text-align: center;
+    border-radius: 10px;
+}
