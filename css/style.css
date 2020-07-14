@@ -33,7 +33,7 @@ img {
 }
 
 .menu{
-    margin-left: 201px;
+    margin-left: 180px;
     line-height: 90px;
    
 }
@@ -89,12 +89,14 @@ img {
     margin: 20px 540px;
 }
 
-.button {
+.button  {
+    
+    margin-top: 60px;
+    
+}
+.button a{
     border: 2px solid #1a8595;
-    margin: 45px 494px;
-    text-align: center;
     padding: 9px;
-    border-radius: 10px;
 }
 .about{
     display: flex;
@@ -102,7 +104,7 @@ img {
     margin: 100px 0;
 }
 .about-image {
-    padding: 0 150px;
+    padding: 20px 150px;
 }
 .about-content h2{
     margin-top: 10px;
@@ -112,8 +114,6 @@ img {
 .about-content p{
     font-size: 18px;
 }
-.second-section button{
-    border: 2px solid #1a8595;
-    text-align: center;
-    border-radius: 10px;
-}
+
+
+    
