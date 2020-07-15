@@ -12,8 +12,7 @@ ul,ol {
 img {
     vertical-align: middle;
 }
-.
-}
+
 .full-wrapper {
     width: 100%;
 }
@@ -25,7 +24,7 @@ img {
 
 .Header{
     background: url(../images/firstbg.png);
-    
+  
 }
 
 .logo-menu{
@@ -115,5 +114,51 @@ img {
     font-size: 18px;
 }
 
+.third-section{
+    background: url(../images/2ndbg.png);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
+}
+
+.video{
+ padding: 200px 0; 
+}
+
+.content h3{
+    color: white;
+    padding: 25px 0;
+}
+
+.Box-item {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.Box {
+    width: 31%;
+    text-align: center;
+    padding: 10px;
+}
+.Box img{
+    padding: 30px;
+}
+
+.Box h3{
+    padding: 15px;
+}
+.Box p{
+    padding: 0 45px;
     
+}
+.Expertise {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.Expertise h3 {
+    padding: 15px;
+}
