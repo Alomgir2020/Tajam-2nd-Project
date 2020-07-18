@@ -162,3 +162,174 @@ img {
 .Expertise h3 {
     padding: 15px;
 }
+
+.Fifth-section{
+    background-image: url(../images/3rdbg.png);
+    width: 100%;
+}
+
+.content-5 {
+        margin: 50px 0;
+        text-align: center;
+        padding: 53px;
+        color: white;
+        letter-spacing: 1px;
+}
+.Team{
+    text-align: center;
+  
+}
+
+.content-bottom{
+    text-align: center;
+    color: white;
+    padding-bottom: 70px;
+}
+
+
+.content-6 {
+        padding: 60px 260px;
+        margin-bottom: 20px;
+    }
+.content-6 p{
+    float: right;  
+}
+.content-6 h3{
+float: left;
+}
+
+.bg-6 {
+    text-align: center;
+   
+}
+
+.seventh-section{
+    background-image: url(../images/4thbg.png);
+    overflow: hidden;
+    width: 100%;
+   margin-top: 100px;
+}
+
+.quotation{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+
+.quotation p {
+    padding: 35px 237px;
+}
+
+.content-7{
+    text-align: center;
+    color: white;
+    padding-bottom: 70px;
+}
+
+.content-7 img{
+    padding-top: 30px;
+}
+
+.eighth-section{
+    margin-top: 50px;
+}
+
+
+.contact{
+    position: relative;
+    left: 70px;
+}
+
+.contact form input {
+    width: 494px;
+    padding: 11px 0;
+}
+
+.contact form input:last-child{
+    position: relative;
+    width: 100px;
+    border: 2px solid #1a8595;
+    
+}
+
+.contact-patner{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.patner{
+    margin-left: 300px;
+}
+
+.patner h3{
+    padding: 16px 0px;
+    font-size: 18px;
+}
+
+.eighth-section{
+    padding-bottom: 70px;
+}
+
+.ninth-section{
+    background: url(../images/footer\ bg.png);
+    padding: 100px 0;
+}
+
+.footer-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-item ul li {
+    display:inline-block;
+}
+
+.footer-item{
+    width: 32%;
+    color: white;
+    padding: 0 7px;
+}
+
+
+
+.footer-item p{
+    padding-right: 20px;
+}
+.footer-item address {
+    padding-top: 30px;
+}
+
+.footer-item form {
+    padding-top: 30px;
+}
+.footer-item input[type="email"] {
+    padding: 15px 14px;
+}
+
+
+.footer-bootom {
+    padding-top: 50px;
+    color: white;
+    padding-right: 100px;
+}
+
+.bootom-left{
+float: left;
+
+
+}
+
+.bootom-left ul li{
+    display: inline-block;
+    
+    
+}
+
+.bootom-left ul li a {
+    width: 30px;
+    
+}
+.bootom-right{
+    float: right;
+}
