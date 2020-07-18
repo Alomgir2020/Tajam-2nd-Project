@@ -270,3 +270,66 @@ float: left;
 .eighth-section{
     padding-bottom: 70px;
 }
+
+.ninth-section{
+    background: url(../images/footer\ bg.png);
+    padding: 100px 0;
+}
+
+.footer-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-item ul li {
+    display:inline-block;
+}
+
+.footer-item{
+    width: 32%;
+    color: white;
+    padding: 0 7px;
+}
+
+
+
+.footer-item p{
+    padding-right: 20px;
+}
+.footer-item address {
+    padding-top: 30px;
+}
+
+.footer-item form {
+    padding-top: 30px;
+}
+.footer-item input[type="email"] {
+    padding: 15px 14px;
+}
+
+
+.footer-bootom {
+    padding-top: 50px;
+    color: white;
+    padding-right: 100px;
+}
+
+.bootom-left{
+float: left;
+
+
+}
+
+.bootom-left ul li{
+    display: inline-block;
+    
+    
+}
+
+.bootom-left ul li a {
+    width: 30px;
+    
+}
+.bootom-right{
+    float: right;
+}
