@@ -294,7 +294,8 @@ float: left;
 
 
 .footer-item p{
-    padding-right: 20px;
+    padding-right: 75px;
+    margin-top: 10px;
 }
 .footer-item address {
     padding-top: 30px;
@@ -304,7 +305,16 @@ float: left;
     padding-top: 30px;
 }
 .footer-item input[type="email"] {
-    padding: 15px 14px;
+    padding: 13px 14px;
+    background-color: #413266;
+}
+
+.footer-item button{
+    background-color: #413266;
+}
+
+.footer-item ul li{
+padding-top: 25px;
 }
 
 
@@ -322,12 +332,10 @@ float: left;
 
 .bootom-left ul li{
     display: inline-block;
-    
-    
 }
 
-.bootom-left ul li a {
-    width: 30px;
+.bootom-left ul li a:last-child {
+   padding: 6px;
     
 }
 .bootom-right{
